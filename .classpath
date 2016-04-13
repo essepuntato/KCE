@@ -4,5 +4,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry kind="lib" path="facility.jar"/>
 	<classpathentry kind="lib" path="taxonomy.jar"/>
+	<classpathentry kind="lib" path="taxonomy-makers.jar"/>
+	<classpathentry kind="lib" path="owlapi-distribution-3.4.4-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
